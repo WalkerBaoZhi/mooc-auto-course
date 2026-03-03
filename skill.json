@@ -1,0 +1,16 @@
+{
+    "name": "auto-course",
+    "version": "1.0.0",
+    "description": "自动完成 MOOC 测验的工具集",
+    "entry": "index.js",
+    "tools": [
+        "detect_list_tool",
+        "enter_test_tool",
+        "vision_tool",
+        "answer_tool",
+        "click_tool",
+        "input_tool",
+        "next_tool",
+        "auto_loop_tool"
+    ]
+}
