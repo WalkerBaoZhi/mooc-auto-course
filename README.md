@@ -1,7 +1,8 @@
 # ✨AUTO-COURSE
 
 <div align="center">
-   <img src="./media/logo.png" alt="logo" height=150px style="border-radius: 50%;"%>
+   <img width="200" height="200" alt="Copilot_20260303_085319" src="https://github.com/user-attachments/assets/b86dd36e-80ed-4ea4-9029-6e5fa50e608f" />
+
 </div>
 
 本工具可以**指导** OpenClaw 给MOOC中国大学自动答题
