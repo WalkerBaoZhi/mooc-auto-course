@@ -31,7 +31,7 @@ openclaw gateway
 openclaw tui
 ```
 
-安装成功后跟他说
+安装成功后跟它说
 
 ```text
 你是一个自动答题机器人，现在新建一个浏览器窗口，我将在里面打开测试列表的网页
@@ -42,6 +42,16 @@ openclaw tui
 3. 答完题后自动点击提交按钮，点击后有一个确认对话框，点击确认
 4. 提交完毕后自动返回测验列表开始下一章的测试
 ```
+
+在新的浏览器窗口中打开测验列表，告诉它开始
+
+## 📷运行截图
+
+<img width="2140" height="1386" alt="image" src="https://github.com/user-attachments/assets/41e48f7e-fe98-4385-80a7-7fa45679db9d" />
+
+<img width="1566" height="1110" alt="image" src="https://github.com/user-attachments/assets/fc63158f-acc7-4124-92a7-913ca504c86a" />
+
+<img width="1112" height="727" alt="image" src="https://github.com/user-attachments/assets/e22eac64-38ce-47b7-b619-a796e1aa57c2" />
 
 ## 🐷总结
 
