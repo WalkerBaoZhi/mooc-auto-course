@@ -4,7 +4,7 @@
    <img src="./media/logo.png" alt="logo" height=150px style="border-radius: 50%;"%>
 </div>
 
-本工具可以**指导** OpenClaw 给MOCC中国大学自动答题
+本工具可以**指导** OpenClaw 给MOOC中国大学自动答题
 
 ## ❓为什么开发这个skill
 
